@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm Vvekananda S Kulkarni, an Environmental Engineer with 6+ years of experience, now transitioning into Data Science. I'm currently pursuing a Data Science course at GUVI, where I'm enhancing my skills in data analysis, machine learning, and visualization.
+I'm passionate about applying my engineering background to solve environmental challenges through data-driven insights.
 <!--
 **vivsk16/vivsk16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
